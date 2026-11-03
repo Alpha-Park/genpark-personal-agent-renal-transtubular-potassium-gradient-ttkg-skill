@@ -1,0 +1,23 @@
+{
+  "name": "genpark-personal-agent-renal-transtubular-potassium-gradient-ttkg-skill",
+  "version": "1.0.0",
+  "description": "Calculates the Transtubular Potassium Gradient (TTKG) to evaluate cortical collecting duct potassium secretion and mineralocorticoid aldosterone bioactivity.",
+  "author": "GenPark Ecosystem",
+  "license": "Apache-2.0",
+  "keywords": [
+    "personal-agent",
+    "openclaw",
+    "genpark",
+    "mcp",
+    "mcp-server",
+    "nephrology",
+    "potassium",
+    "aldosterone",
+    "ttkg",
+    "electrolytes",
+    "kidney",
+    "zero-dependency"
+  ],
+  "main": "client.py",
+  "mcp_server": "mcp_server.py"
+}
